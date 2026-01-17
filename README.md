@@ -6,8 +6,18 @@
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Ryoshi1001"/>
 
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryoshi1001&theme=dark)
+
+<!-- GitHub Stats -->
 ![Ryoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryoshi1001&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoshi1001&layout=compact&theme=dark)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoshi1001&layout=compact&theme=dark)
+
+<!-- GitHub Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryoshi1001&theme=radical&no-frame=true&margin-w=10)](https://github.com/Ryoshi1001)
+
 
 <!---
 Ryoshi1001/Ryoshi1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
