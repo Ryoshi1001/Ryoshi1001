@@ -6,6 +6,9 @@
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Ryoshi1001"/>
 
+![Ryoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryoshi1001&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoshi1001&layout=compact&theme=dark)
+
 <!---
 Ryoshi1001/Ryoshi1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
