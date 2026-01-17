@@ -9,6 +9,8 @@
 <!-- GitHub Streak (full width) -->
 <p align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ryoshi1001&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryoshi1001&theme=github_dark" />
+
 </p>
 
 <!-- Stats side by side -->
