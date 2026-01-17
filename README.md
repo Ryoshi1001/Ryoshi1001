@@ -7,7 +7,7 @@
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Ryoshi1001"/>
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats-eight.vercel.app/top-langs/?user=Ryoshi1001&theme=dark" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/api/top-langs/?user=Ryoshi1001&theme=dark" />
 
 
 <!-- GitHub Stats -->
