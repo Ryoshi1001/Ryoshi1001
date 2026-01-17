@@ -16,6 +16,12 @@
 <!-- Languages (try this) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryoshi1001&theme=github_dark" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryohsi1001&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryoshi1001&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryoshi1001&theme=github_dark" />
+
 <!---
 Ryoshi1001/Ryoshi1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
