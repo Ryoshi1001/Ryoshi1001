@@ -6,7 +6,7 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/demo/?user=Ryoshi1001)]
+https://github-readme-streak-stats-eight.vercel.app/demo/?user=Ryoshi1001
 
 
 
