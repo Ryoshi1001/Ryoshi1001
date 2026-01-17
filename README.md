@@ -5,10 +5,8 @@
 - 📫 Portfolio in repositories...
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryoshi1001)](https://github.com/Ryoshi1001/github-readme-stats)
 
-
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/demo/?user=Ryoshi1001&theme=react&layout=compact)](https://git.io/streak-stats)
 
 
 
@@ -16,6 +14,4 @@
 <!---
 Ryoshi1001/Ryoshi1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ryoshi1001&theme=react&layout=compact)](https://git.io/streak-stats)
-
 --->
