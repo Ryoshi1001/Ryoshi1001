@@ -4,7 +4,8 @@
 - 💞️ I’m learning to help on Front-End-Web-Development...
 - 📫 Portfolio in repositories...
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ryoshi1001)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ryoshi1001&theme=dark)](https://git.io/streak-stats)
+
 
 
 <!---
