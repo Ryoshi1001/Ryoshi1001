@@ -6,6 +6,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ryoshi1001)](https://git.io/streak-stats)
 
+https://streak-stats.demolab.com?user=Ryoshi1001&theme=react&layout=compact
+
+
+
 
 
 <!---
