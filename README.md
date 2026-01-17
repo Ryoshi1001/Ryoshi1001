@@ -7,16 +7,8 @@
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ryoshi1001&theme=dark" />
 
-<!-- Streak (already works for you) -->
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ryoshi1001&theme=dark" />
-
-<!-- Stats (try this) -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ryoshi1001&show_icons=true&theme=dark" />
-
 <!-- Languages (try this) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryoshi1001&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryohsi1001&theme=github_dark" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryoshi1001&theme=github_dark" />
 
