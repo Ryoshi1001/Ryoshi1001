@@ -7,8 +7,14 @@
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ryoshi1001&theme=dark" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoshi1001&layout=compact&theme=dark)
+<!-- Streak (already works for you) -->
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ryoshi1001&theme=dark" />
 
+<!-- Stats (try this) -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ryoshi1001&show_icons=true&theme=dark" />
+
+<!-- Languages (try this) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryoshi1001&theme=github_dark" />
 
 <!---
 Ryoshi1001/Ryoshi1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
