@@ -11,9 +11,7 @@
 
 
 <!-- GitHub Stats -->
-![Ryoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryoshi1001&show_icons=true&theme=dark)
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Ryoshi1001&theme=dark" />
-
+<img src="https://github-readme-stats-eight.vercel.app?username=Ryoshi1001&show_icons=true&theme=dark)"/>
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoshi1001&layout=compact&theme=dark)
