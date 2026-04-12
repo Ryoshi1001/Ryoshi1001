@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ryoshi1001
 - 🌱 Fun Learning Full-stack development focused on React & Next.js, building modern web apps and AI-powered automations (n8n). Currently strengthening data structures & algorithms through a structured problem-solving roadmap including arrays, hash maps, sliding window, and two pointers.
 - 💞️ 💞️ Doing volunteer and freelance front-end development work for non-profits and small businesses
-- 📫 Portfolio in repositories...
 
 <!-- GitHub Streak + Stats (full width) -->
 <p align="center">
